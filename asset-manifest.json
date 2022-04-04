@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searchplaces-assignment-optimised/static/css/main.828b6477.css",
+    "main.js": "/searchplaces-assignment-optimised/static/js/main.f9be60f3.js",
+    "index.html": "/searchplaces-assignment-optimised/index.html",
+    "main.828b6477.css.map": "/searchplaces-assignment-optimised/static/css/main.828b6477.css.map",
+    "main.f9be60f3.js.map": "/searchplaces-assignment-optimised/static/js/main.f9be60f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828b6477.css",
+    "static/js/main.f9be60f3.js"
+  ]
+}
